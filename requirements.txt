@@ -1,0 +1,11 @@
+Python 3.7+
+
+NumPy
+
+SciPy
+
+Matplotlib
+
+PyTorch
+
+Jupyter Notebook
